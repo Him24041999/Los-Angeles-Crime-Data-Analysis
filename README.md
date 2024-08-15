@@ -10,6 +10,9 @@ In our exploratory data analysis, I delved into several key areas to uncover mea
 ## Predictive Analysis
 We employed Time Series Analysis using the ARIMA model to forecast future crime rates. Our prediction indicated a likely drop in crime rates over the next three months, aligning with historical trends of decreased crime in the latter part of the year.
 
+![Arima](https://github.com/user-attachments/assets/bf849f2b-e16a-4830-bde9-d0fea2d3c239)
+
+
 ## Conclusion
 This project provided valuable insights into crime patterns in Los Angeles, revealing trends influenced by seasonal changes, major events, and economic factors. The findings contribute to a deeper understanding of crime dynamics and can guide policymakers and community leaders in developing targeted crime prevention strategies.
 
